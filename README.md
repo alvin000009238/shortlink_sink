@@ -54,7 +54,7 @@
 - **🪄 AI Slug:** Leverage AI to generate slugs.
 - **Link Expiration:** Set expiration dates for your links.
 
-## 🪧 Demo
+## 🪧 Demo.
 
 Experience the demo at [Sink.Cool](https://sink.cool/dashboard). Log in using the Site Token below:
 
